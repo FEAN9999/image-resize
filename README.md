@@ -15,3 +15,7 @@ Image Resize is a simple command-line tool for resizing images. It allows you to
 2. Install the required dependencies:
 
    npm install
+
+## Usage
+
+- Navigate to this url to execute resize http://localhost:3000/api/images?filename=encenadaport&width=200&height=200
